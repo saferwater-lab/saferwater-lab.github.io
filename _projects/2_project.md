@@ -55,7 +55,7 @@ Amery, L., Tobiason, J., Kumpel, E., 2023. Water lead levels in Massachusetts sc
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/LeadInBuildings.jpg" title="lead by building age" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
