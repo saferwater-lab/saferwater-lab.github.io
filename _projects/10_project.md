@@ -1,17 +1,11 @@
 ---
 layout: page
-title: Water quality in intermittent water supplies - Kenya
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
+title: project 9
+description: another project with an image 🎉
+img: assets/img/6.jpg
+importance: 4
 category: fun
 ---
-
-<b> Communities: </b> Machakos County, Kenya
-<b> Impacts: </b>
-
-
-<b> India </b>
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
