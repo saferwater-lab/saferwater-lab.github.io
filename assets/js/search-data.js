@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "Projects we have done or are working on",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -51,9 +51,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
+        },{id: "nav-team",
+          title: "team",
+          description: "members of the group",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
@@ -440,10 +440,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
@@ -451,9 +448,17 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "news-umass-research-referenced-in-la-times-article-for-work-in-new-report-by-ucla-how-have-the-la-fires-affected-water-systems-in-la-county",
+          title: 'UMass research referenced in LA Times Article for work in new report by...',
+          description: "",
+          section: "News",},{id: "projects-project-9",
+          title: 'project 9',
+          description: "another project with an image 🎉",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/10_project/";
+            },},{id: "projects-private-wells-in-the-us",
+          title: 'Private Wells in the US',
+          description: "Research on water quality and mapping of private wells in the US",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-lead-in-water-in-schools-and-childcares",
@@ -471,14 +476,14 @@ ninja.data = [{
           description: "another without an image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
+            },},{id: "projects-water-quality-in-intermittent-water-supplies-kenya",
+          title: 'Water quality in intermittent water supplies - Kenya',
           description: "a project with a background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+            },},{id: "projects-machine-learning-predictions-of-wastewater-infrastructure-mapping",
+          title: 'Machine Learning Predictions of Wastewater Infrastructure Mapping',
+          description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{id: "projects-project-7",
@@ -491,9 +496,9 @@ ninja.data = [{
           description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+            },},{id: "projects-point-of-use-and-point-of-entry-treatment-in-the-us",
+          title: 'Point-of-Use and Point-of-Entry Treatment in the US',
+          description: "Point-of-use and Point-of-entry Treatment in the US",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
