@@ -20,7 +20,7 @@ We developed a machine learning model that leverages geospatial data and Random 
 
 ## California Wastewater Needs Assessment
 
-California launched the first-ever comprehensive statewater wastewater needs assessment in 2023. This four-year project, funded by the California State and Regional Water Resources Control Boards, represents an  effort to evaluate the state's aging wastewater infrastructure and recognize Californians' equal and human right to sanitation. The project brings together partners from UCLA's Luskin Center for Innovation, UC Agricultural and Natural Resources Institute, Sacramento State's Office of Water Programs, and University of Massachusetts Amherst. For this project, we are leveraging our machine learning approach to generate a predictive model of wastewater infrastructure across California. 
+California launched the first-ever comprehensive statewater wastewater needs assessment in 2023. This four-year project, funded by the California State and Regional Water Resources Control Boards, represents an effort to evaluate the state's aging wastewater infrastructure and recognize Californians' equal and human right to sanitation. The project brings together partners from UCLA's Luskin Center for Innovation, UC Agricultural and Natural Resources Institute, Sacramento State's Office of Water Programs, and University of Massachusetts Amherst. For this project, we are leveraging our machine learning approach to generate a predictive model of wastewater infrastructure across California.
 
 ## Broader Impact
 
@@ -32,9 +32,9 @@ California State Water Resources Control Board
 UMass Amherst Center for Agriculture, Food and the Environment (CAFE) (USDA NIFA)
 UMass Amherst Office of Research
 
-** Publications: 
+\*_ Publications:
 Preprint:
-da Luz, N.*, J. Taneja, E. Kumpel. Look Out Below: Predicting Wastewater Infrastructure Service Type at the Land Parcel Scale. Research Square [Preprint](https://dx.doi.org/10.21203/rs.3.rs-6656886/v1) (in review since 05/2025).
+da Luz, N._, J. Taneja, E. Kumpel. Look Out Below: Predicting Wastewater Infrastructure Service Type at the Land Parcel Scale. Research Square [Preprint](https://dx.doi.org/10.21203/rs.3.rs-6656886/v1) (in review since 05/2025).
 
     ---
     layout: page

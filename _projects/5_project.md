@@ -10,7 +10,6 @@ category: current
 <b> Communities: </b> Machakos County, Kenya
 <b> Impacts: </b>
 
-
 <b> India </b>
 
 Every project has a beautiful feature showcase page.

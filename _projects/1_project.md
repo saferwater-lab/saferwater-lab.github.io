@@ -8,8 +8,6 @@ category: current
 related_publications: true
 ---
 
-
-
 Private wells - well mapping, arsenic
 
 Testing. project related tototal coliform
