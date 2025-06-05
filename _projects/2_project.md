@@ -4,7 +4,7 @@ title: Lead in Water in Schools and Childcares
 description: Research and technical assistance to measure and remediate lead in water in schools and childcares
 img: assets/img/SamplingBottles.jpg
 importance: 2
-category: work
+category: current
 ---
 
 We conduct research and offer technical assistance related to monitoring and remediating lead in water in schools and childcares in Massachusetts.

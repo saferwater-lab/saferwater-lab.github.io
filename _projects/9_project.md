@@ -4,7 +4,7 @@ title: Point-of-Use and Point-of-Entry Treatment in the US
 description: Point-of-use and Point-of-entry Treatment in the US
 img: assets/img/6.jpg
 importance: 4
-category: fun
+category: finished
 ---
 
 WQRF Project

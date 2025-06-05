@@ -4,7 +4,7 @@ title: Water quality in intermittent water supplies - Kenya
 description: a project with a background image
 img: assets/img/1.jpg
 importance: 3
-category: fun
+category: current
 ---
 
 <b> Communities: </b> Machakos County, Kenya

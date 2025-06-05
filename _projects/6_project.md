@@ -4,7 +4,7 @@ title: Machine Learning Predictions of Wastewater Infrastructure Mapping
 description: with background image
 img: assets/img/SepticProcess.jpg
 importance: 1
-category: work
+category: current
 related_publications: true
 ---
 
