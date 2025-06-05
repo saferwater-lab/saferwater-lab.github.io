@@ -2,7 +2,7 @@
 layout: page
 title: Lead in Water in Schools and Childcares
 description: Research and technical assistance to measure and remediate lead in water in schools and childcares
-img: assets/img/3.jpg
+img: assets/img/SamplingBottles.jpg
 importance: 2
 category: work
 ---
